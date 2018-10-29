@@ -1,0 +1,4 @@
+--- applications:
+ - name: BEELINE-AQI
+ - random-route: true
+ - memory: 256M
